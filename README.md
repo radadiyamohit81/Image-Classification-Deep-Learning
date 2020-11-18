@@ -1,6 +1,6 @@
 # Image-Classification-Deep-Learning (2nd Winner)
 
-## Problem Statement:
+## Problem Statement: [LINK](https://dockship.io/challenges/5f7f058c81d83b7c2b93680b/rethink-ux-internship-challenge/overview)
 The dataset contains images of 6 categories from around the world. It contains two directories "TRAIN" and "TEST". The TRAIN directory contains 6 training sub-directories and TEST contains 3409 testing images. The training images are provided in the directory of the specific class itself. The names of the directories are "class labels" to be used for submission. The aim is to classify the "TEST" images into one of the 6 classes.
 
 `Classes: Total 6 classes`
